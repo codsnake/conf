@@ -1,2 +1,3 @@
-# conf
-Exported Configurations and Settings for any environments.
+# My Personal Conf Repo
+
+###### Settings and Configurations for several environments.
